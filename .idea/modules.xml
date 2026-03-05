@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula04-Encapsulamento/Aula04-Encapsulamento.iml" filepath="$PROJECT_DIR$/Aula04-Encapsulamento/Aula04-Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula05-ArrayeLIst/Aula05-ArrayeLIst.iml" filepath="$PROJECT_DIR$/Aula05-ArrayeLIst/Aula05-ArrayeLIst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula05/Aula05-Arrayelist.iml" filepath="$PROJECT_DIR$/Aula05/Aula05-Arrayelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA-U.iml" filepath="$PROJECT_DIR$/.idea/JAVA-U.iml" />
+    </modules>
+  </component>
+</project>
